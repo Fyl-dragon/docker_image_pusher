@@ -1,1 +1,1 @@
-10.5.5.25:8080/nvidia/k8s-device-plugin:v0.17.0-ubi9
+nvidia/k8s-device-plugin
